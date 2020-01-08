@@ -3,4 +3,5 @@
    language: system
    entry: ./pre-commit.sh
    always_run: true
+   verbose: true
 
