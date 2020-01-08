@@ -1,0 +1,6 @@
+-  id: phpunit
+   name: PHPUnit
+   language: system
+   entry: ./pre-commit.sh
+   always_run: true
+
