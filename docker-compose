@@ -1,2 +1,0 @@
-#!/bin/sh
-docker-compose up --quiet-pull pre-commit
