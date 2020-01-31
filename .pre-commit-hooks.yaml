@@ -5,5 +5,5 @@
    always_run: true
    verbose: true
    stages:
-   - pre-push
+   - push
    
