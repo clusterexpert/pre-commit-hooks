@@ -4,3 +4,6 @@
    entry: ./pre-commit.sh
    always_run: true
    verbose: true
+   stages:
+   - pre-push
+   
